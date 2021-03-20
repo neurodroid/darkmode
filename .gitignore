@@ -1,0 +1,9 @@
+*~
+\#*
+darkmode.ipynb
+__pycache__
+.ipynb_checkpoints
+data
+build
+dist
+darkmode.egg-info
